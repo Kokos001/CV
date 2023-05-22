@@ -56,11 +56,11 @@ p {
 @media only screen and (max-width: 480px) {
   /* Здесь указываете стили, которые должны применяться на мобильных устройствах */
   body {
-    font-size: 10px;
+    font-size: 9px;
   }
   /* Пример изменения размера шрифта */
   .header {
-    padding: 10px;
+    padding: 5px;
   }
   /* Пример изменения отступов */
   .content {
